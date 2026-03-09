@@ -13,4 +13,6 @@ This project analyzes ICC T20 World Cup data using SQL and Power BI.
 - Team performance
 - Toss decision impact
 
+
 ## Author
+Deepa Parshekar
